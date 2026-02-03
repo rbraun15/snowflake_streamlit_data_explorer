@@ -1,0 +1,51 @@
+financial_aid_id,student_id,major,department,award_type,award_name,amount,academic_year,semester,status,application_date,disbursement_date
+1,STU10001,Computer Science,Engineering,Scholarship,Merit Excellence Award,5000.00,2024-2025,Fall,Disbursed,2024-06-15,2024-08-20
+2,STU10002,Biology,Arts & Sciences,Grant,Pell Grant,3500.00,2024-2025,Fall,Disbursed,2024-05-20,2024-08-15
+3,STU10003,Business Administration,Business,Loan,Federal Subsidized Loan,5500.00,2024-2025,Fall,Disbursed,2024-06-01,2024-08-25
+4,STU10004,Psychology,Arts & Sciences,Work-Study,Federal Work-Study,2500.00,2024-2025,Fall,Approved,2024-07-10,
+5,STU10005,Mechanical Engineering,Engineering,Scholarship,Engineering Excellence Fund,7500.00,2024-2025,Fall,Disbursed,2024-05-15,2024-08-18
+6,STU10006,English,Arts & Sciences,Grant,State Need-Based Grant,2800.00,2024-2025,Fall,Disbursed,2024-06-20,2024-08-22
+7,STU10007,Chemistry,Arts & Sciences,Scholarship,STEM Achievement Award,4500.00,2024-2025,Fall,Disbursed,2024-05-25,2024-08-19
+8,STU10008,Mathematics,Arts & Sciences,Loan,Federal Unsubsidized Loan,7000.00,2024-2025,Fall,Disbursed,2024-06-10,2024-08-21
+9,STU10009,Nursing,Health Sciences,Scholarship,Healthcare Heroes Scholarship,6000.00,2024-2025,Fall,Disbursed,2024-05-30,2024-08-17
+10,STU10010,Economics,Business,Grant,Institutional Grant,3200.00,2024-2025,Fall,Disbursed,2024-06-05,2024-08-20
+11,STU10001,Computer Science,Engineering,Grant,Technology Innovation Grant,2000.00,2024-2025,Spring,Disbursed,2024-11-15,2025-01-10
+12,STU10011,Biology,Arts & Sciences,Scholarship,Life Sciences Award,4000.00,2024-2025,Fall,Disbursed,2024-06-18,2024-08-23
+13,STU10012,Computer Science,Engineering,Loan,Private Education Loan,10000.00,2024-2025,Fall,Disbursed,2024-07-01,2024-08-28
+14,STU10013,Psychology,Arts & Sciences,Scholarship,Behavioral Sciences Scholarship,3500.00,2024-2025,Fall,Disbursed,2024-05-22,2024-08-16
+15,STU10014,Business Administration,Business,Grant,Business Leaders Grant,2500.00,2024-2025,Fall,Approved,2024-07-15,
+16,STU10015,Nursing,Health Sciences,Loan,Health Professions Loan,8000.00,2024-2025,Fall,Disbursed,2024-06-25,2024-08-24
+17,STU10016,English,Arts & Sciences,Work-Study,Library Assistant Program,1800.00,2024-2025,Fall,Approved,2024-07-20,
+18,STU10017,Mechanical Engineering,Engineering,Grant,Pell Grant,3500.00,2024-2025,Fall,Disbursed,2024-05-18,2024-08-14
+19,STU10018,Mathematics,Arts & Sciences,Scholarship,Quantitative Excellence Award,5500.00,2024-2025,Fall,Disbursed,2024-06-08,2024-08-19
+20,STU10019,Chemistry,Arts & Sciences,Grant,Research Opportunity Grant,3000.00,2024-2025,Fall,Disbursed,2024-06-12,2024-08-21
+21,STU10020,Economics,Business,Scholarship,Deans Scholarship,6500.00,2024-2025,Fall,Disbursed,2024-05-28,2024-08-18
+22,STU10002,Biology,Arts & Sciences,Scholarship,Pre-Med Excellence Award,4500.00,2025-2026,Fall,Pending,2025-06-10,
+23,STU10003,Business Administration,Business,Grant,Pell Grant,3500.00,2025-2026,Fall,Approved,2025-05-25,
+24,STU10021,Computer Science,Engineering,Scholarship,Cybersecurity Scholarship,8000.00,2025-2026,Fall,Approved,2025-06-01,
+25,STU10022,Nursing,Health Sciences,Grant,Nursing Workforce Grant,5000.00,2025-2026,Fall,Pending,2025-06-15,
+26,STU10023,Psychology,Arts & Sciences,Loan,Federal Subsidized Loan,5500.00,2025-2026,Fall,Approved,2025-05-30,
+27,STU10024,Mechanical Engineering,Engineering,Scholarship,Industry Partnership Award,7000.00,2025-2026,Fall,Approved,2025-06-05,
+28,STU10025,English,Arts & Sciences,Grant,Humanities Support Grant,2200.00,2025-2026,Fall,Pending,2025-06-20,
+29,STU10004,Psychology,Arts & Sciences,Scholarship,Research Assistant Award,3000.00,2024-2025,Spring,Disbursed,2024-12-01,2025-01-15
+30,STU10005,Mechanical Engineering,Engineering,Grant,STEM Excellence Grant,4000.00,2024-2025,Spring,Disbursed,2024-11-20,2025-01-12
+31,STU10026,Biology,Arts & Sciences,Work-Study,Lab Assistant Program,2200.00,2024-2025,Fall,Approved,2024-07-25,
+32,STU10027,Business Administration,Business,Scholarship,Entrepreneurship Award,5500.00,2024-2025,Fall,Disbursed,2024-06-02,2024-08-20
+33,STU10028,Chemistry,Arts & Sciences,Loan,Federal Subsidized Loan,5500.00,2024-2025,Fall,Disbursed,2024-06-14,2024-08-22
+34,STU10029,Mathematics,Arts & Sciences,Grant,State Merit Grant,2800.00,2024-2025,Fall,Disbursed,2024-05-20,2024-08-16
+35,STU10030,Nursing,Health Sciences,Scholarship,Clinical Excellence Award,6500.00,2024-2025,Fall,Disbursed,2024-05-18,2024-08-15
+36,STU10006,English,Arts & Sciences,Scholarship,Creative Writing Award,3000.00,2024-2025,Spring,Disbursed,2024-11-25,2025-01-14
+37,STU10007,Chemistry,Arts & Sciences,Grant,Research Support Grant,2500.00,2024-2025,Spring,Disbursed,2024-12-05,2025-01-18
+38,STU10031,Economics,Business,Loan,Federal Unsubsidized Loan,7000.00,2024-2025,Fall,Disbursed,2024-06-22,2024-08-25
+39,STU10032,Computer Science,Engineering,Scholarship,Women in Tech Scholarship,6000.00,2024-2025,Fall,Disbursed,2024-05-12,2024-08-14
+40,STU10033,Psychology,Arts & Sciences,Grant,Pell Grant,3500.00,2024-2025,Fall,Disbursed,2024-05-28,2024-08-18
+41,STU10008,Mathematics,Arts & Sciences,Scholarship,Academic Achievement Award,4000.00,2025-2026,Fall,Pending,2025-06-08,
+42,STU10009,Nursing,Health Sciences,Grant,State Healthcare Grant,3200.00,2025-2026,Fall,Approved,2025-05-22,
+43,STU10034,Biology,Arts & Sciences,Scholarship,Environmental Science Award,4500.00,2023-2024,Fall,Disbursed,2023-06-10,2023-08-18
+44,STU10035,Business Administration,Business,Grant,First Generation Grant,3800.00,2023-2024,Fall,Disbursed,2023-05-25,2023-08-15
+45,STU10036,Mechanical Engineering,Engineering,Loan,Private Education Loan,12000.00,2023-2024,Fall,Disbursed,2023-06-20,2023-08-22
+46,STU10037,English,Arts & Sciences,Scholarship,Liberal Arts Excellence,3500.00,2023-2024,Fall,Disbursed,2023-05-30,2023-08-16
+47,STU10038,Chemistry,Arts & Sciences,Work-Study,Research Lab Assistant,2400.00,2023-2024,Fall,Disbursed,2023-07-15,2023-09-01
+48,STU10039,Economics,Business,Scholarship,Data Analytics Award,5000.00,2023-2024,Fall,Disbursed,2023-06-05,2023-08-19
+49,STU10040,Nursing,Health Sciences,Grant,Pell Grant,3500.00,2023-2024,Spring,Disbursed,2023-11-10,2024-01-12
+50,STU10010,Economics,Business,Loan,Federal Subsidized Loan,5500.00,2024-2025,Spring,Disbursed,2024-11-28,2025-01-16

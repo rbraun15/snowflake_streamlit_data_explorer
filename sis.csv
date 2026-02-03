@@ -1,0 +1,51 @@
+sis_id,student_id,first_name,last_name,email,major,department,enrollment_status,class_level,gpa,total_credits,advisor_id,enrollment_date,expected_graduation
+1,STU10001,James,Wilson,jwilson@university.edu,Computer Science,Engineering,Full-time,Junior,3.75,78,ADV001,2022-08-20,2026-05-15
+2,STU10002,Emily,Johnson,ejohnson@university.edu,Biology,Arts & Sciences,Full-time,Senior,3.82,98,ADV002,2021-08-18,2025-05-15
+3,STU10003,Michael,Brown,mbrown@university.edu,Business Administration,Business,Full-time,Sophomore,3.45,45,ADV003,2023-08-21,2027-05-15
+4,STU10004,Sarah,Davis,sdavis@university.edu,Psychology,Arts & Sciences,Full-time,Junior,3.68,72,ADV004,2022-08-20,2026-05-15
+5,STU10005,David,Martinez,dmartinez@university.edu,Mechanical Engineering,Engineering,Full-time,Senior,3.91,112,ADV001,2021-08-18,2025-05-15
+6,STU10006,Jessica,Garcia,jgarcia@university.edu,English,Arts & Sciences,Full-time,Junior,3.55,68,ADV005,2022-08-20,2026-05-15
+7,STU10007,Christopher,Rodriguez,crodriguez@university.edu,Chemistry,Arts & Sciences,Full-time,Sophomore,3.72,42,ADV002,2023-08-21,2027-05-15
+8,STU10008,Ashley,Lee,alee@university.edu,Mathematics,Arts & Sciences,Part-time,Senior,3.88,95,ADV006,2020-08-17,2025-05-15
+9,STU10009,Matthew,Hernandez,mhernandez@university.edu,Nursing,Health Sciences,Full-time,Junior,3.65,76,ADV007,2022-08-20,2026-05-15
+10,STU10010,Amanda,Lopez,alopez@university.edu,Economics,Business,Full-time,Senior,3.78,105,ADV003,2021-08-18,2025-05-15
+11,STU10011,Joshua,Gonzalez,jgonzalez@university.edu,Biology,Arts & Sciences,Full-time,Freshman,3.25,15,ADV002,2024-08-19,2028-05-15
+12,STU10012,Brittany,Wilson,bwilson@university.edu,Computer Science,Engineering,Full-time,Sophomore,3.58,38,ADV001,2023-08-21,2027-05-15
+13,STU10013,Andrew,Anderson,aanderson@university.edu,Psychology,Arts & Sciences,Full-time,Senior,3.42,102,ADV004,2021-08-18,2025-05-15
+14,STU10014,Stephanie,Thomas,sthomas@university.edu,Business Administration,Business,Part-time,Junior,3.35,58,ADV003,2022-01-10,2026-12-15
+15,STU10015,Ryan,Taylor,rtaylor@university.edu,Nursing,Health Sciences,Full-time,Sophomore,3.71,48,ADV007,2023-08-21,2027-05-15
+16,STU10016,Nicole,Moore,nmoore@university.edu,English,Arts & Sciences,Full-time,Freshman,3.62,18,ADV005,2024-08-19,2028-05-15
+17,STU10017,Brandon,Jackson,bjackson@university.edu,Mechanical Engineering,Engineering,Full-time,Junior,3.85,82,ADV001,2022-08-20,2026-05-15
+18,STU10018,Lauren,Martin,lmartin@university.edu,Mathematics,Arts & Sciences,Full-time,Sophomore,3.95,52,ADV006,2023-08-21,2027-05-15
+19,STU10019,Kevin,White,kwhite@university.edu,Chemistry,Arts & Sciences,Full-time,Junior,3.48,65,ADV002,2022-08-20,2026-05-15
+20,STU10020,Rachel,Harris,rharris@university.edu,Economics,Business,Full-time,Senior,3.82,108,ADV003,2021-08-18,2025-05-15
+21,STU10021,Tyler,Clark,tclark@university.edu,Computer Science,Engineering,Full-time,Freshman,3.38,12,ADV001,2025-08-18,2029-05-15
+22,STU10022,Megan,Lewis,mlewis@university.edu,Nursing,Health Sciences,Full-time,Freshman,3.52,15,ADV007,2025-08-18,2029-05-15
+23,STU10023,Justin,Robinson,jrobinson@university.edu,Psychology,Arts & Sciences,Full-time,Freshman,3.28,14,ADV004,2025-08-18,2029-05-15
+24,STU10024,Amber,Walker,awalker@university.edu,Mechanical Engineering,Engineering,Full-time,Freshman,3.65,16,ADV001,2025-08-18,2029-05-15
+25,STU10025,Jacob,Hall,jhall@university.edu,English,Arts & Sciences,Part-time,Freshman,3.18,9,ADV005,2025-08-18,2030-05-15
+26,STU10026,Samantha,Allen,sallen@university.edu,Biology,Arts & Sciences,Full-time,Sophomore,3.45,35,ADV002,2023-08-21,2027-05-15
+27,STU10027,Nicholas,Young,nyoung@university.edu,Business Administration,Business,Full-time,Junior,3.72,75,ADV003,2022-08-20,2026-05-15
+28,STU10028,Kayla,King,kking@university.edu,Chemistry,Arts & Sciences,Full-time,Sophomore,3.58,42,ADV002,2023-08-21,2027-05-15
+29,STU10029,Zachary,Wright,zwright@university.edu,Mathematics,Arts & Sciences,Full-time,Senior,3.92,115,ADV006,2021-08-18,2025-05-15
+30,STU10030,Hannah,Scott,hscott@university.edu,Nursing,Health Sciences,Full-time,Senior,3.78,118,ADV007,2021-08-18,2025-05-15
+31,STU10031,Daniel,Green,dgreen@university.edu,Economics,Business,Full-time,Junior,3.42,68,ADV003,2022-08-20,2026-05-15
+32,STU10032,Victoria,Adams,vadams@university.edu,Computer Science,Engineering,Full-time,Sophomore,3.85,45,ADV001,2023-08-21,2027-05-15
+33,STU10033,Alexander,Baker,abaker@university.edu,Psychology,Arts & Sciences,Full-time,Freshman,3.15,18,ADV004,2024-08-19,2028-05-15
+34,STU10034,Olivia,Nelson,onelson@university.edu,Biology,Arts & Sciences,Graduated,Graduate,3.68,128,ADV002,2020-08-17,2024-05-15
+35,STU10035,Ethan,Carter,ecarter@university.edu,Business Administration,Business,Full-time,Senior,3.25,98,ADV003,2021-08-18,2025-12-15
+36,STU10036,Isabella,Mitchell,imitchell@university.edu,Mechanical Engineering,Engineering,Leave of Absence,Junior,3.55,72,ADV001,2022-08-20,2027-05-15
+37,STU10037,Noah,Perez,nperez@university.edu,English,Arts & Sciences,Graduated,Graduate,3.88,125,ADV005,2020-08-17,2024-05-15
+38,STU10038,Sophia,Roberts,sroberts@university.edu,Chemistry,Arts & Sciences,Full-time,Senior,3.72,105,ADV002,2021-08-18,2025-05-15
+39,STU10039,Liam,Turner,lturner@university.edu,Economics,Business,Graduated,Graduate,3.95,130,ADV003,2020-08-17,2024-05-15
+40,STU10040,Emma,Phillips,ephillips@university.edu,Nursing,Health Sciences,Full-time,Senior,3.62,112,ADV007,2021-08-18,2025-05-15
+41,STU10041,Mason,Campbell,mcampbell@university.edu,Computer Science,Engineering,Withdrawn,Sophomore,2.85,28,ADV001,2023-08-21,
+42,STU10042,Ava,Parker,aparker@university.edu,Psychology,Arts & Sciences,Full-time,Junior,3.48,72,ADV004,2022-08-20,2026-05-15
+43,STU10043,William,Evans,wevans@university.edu,Biology,Arts & Sciences,Full-time,Sophomore,3.32,38,ADV002,2023-08-21,2027-05-15
+44,STU10044,Chloe,Edwards,cedwards@university.edu,Business Administration,Business,Full-time,Freshman,3.55,15,ADV003,2024-08-19,2028-05-15
+45,STU10045,Benjamin,Collins,bcollins@university.edu,Mechanical Engineering,Engineering,Full-time,Senior,3.78,108,ADV001,2021-08-18,2025-05-15
+46,STU10046,Grace,Stewart,gstewart@university.edu,English,Arts & Sciences,Full-time,Sophomore,3.65,42,ADV005,2023-08-21,2027-05-15
+47,STU10047,Lucas,Sanchez,lsanchez@university.edu,Chemistry,Arts & Sciences,Full-time,Junior,3.82,78,ADV002,2022-08-20,2026-05-15
+48,STU10048,Lily,Morris,lmorris@university.edu,Mathematics,Arts & Sciences,Full-time,Freshman,3.92,18,ADV006,2024-08-19,2028-05-15
+49,STU10049,Henry,Rogers,hrogers@university.edu,Economics,Business,Full-time,Sophomore,3.38,35,ADV003,2023-08-21,2027-05-15
+50,STU10050,Ella,Reed,ereed@university.edu,Nursing,Health Sciences,Full-time,Junior,3.58,75,ADV007,2022-08-20,2026-05-15

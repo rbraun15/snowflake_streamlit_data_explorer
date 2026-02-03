@@ -1,0 +1,51 @@
+interaction_id,student_id,major,department,advisor_id,advisor_name,interaction_date,interaction_type,duration_minutes,meeting_format,notes,follow_up_required
+1,STU10001,Computer Science,Engineering,ADV001,Dr. Robert Chen,2024-09-05,Academic Advising,30,In-Person,Discussed course selection for Spring 2025. Student interested in AI specialization.,FALSE
+2,STU10002,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-09-08,Career Counseling,45,In-Person,Reviewed medical school application timeline. Discussed MCAT prep options.,TRUE
+3,STU10003,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-09-10,Registration Help,20,Virtual,Assisted with adding waitlisted course. Discussed backup options.,FALSE
+4,STU10004,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2024-09-12,Academic Advising,35,In-Person,Reviewed progress toward degree. On track for graduation Spring 2026.,FALSE
+5,STU10005,Mechanical Engineering,Engineering,ADV001,Dr. Robert Chen,2024-09-15,Graduation Planning,40,In-Person,Final degree audit review. Confirmed all requirements will be met by May 2025.,FALSE
+6,STU10006,English,Arts & Sciences,ADV005,Prof. Sarah Mitchell,2024-09-18,Career Counseling,50,In-Person,Discussed publishing internship opportunities. Reviewed writing portfolio.,TRUE
+7,STU10007,Chemistry,Arts & Sciences,ADV002,Dr. Lisa Park,2024-09-20,Academic Advising,25,Virtual,Discussed research opportunities in organic chemistry lab.,FALSE
+8,STU10008,Mathematics,Arts & Sciences,ADV006,Dr. James Miller,2024-09-22,Personal Support,45,In-Person,Student experiencing burnout. Discussed workload management strategies.,TRUE
+9,STU10009,Nursing,Health Sciences,ADV007,Dr. Patricia Nguyen,2024-09-25,Academic Advising,30,In-Person,Clinical rotation placement discussion. Assigned to Memorial Hospital.,FALSE
+10,STU10010,Economics,Business,ADV003,Prof. Mark Thompson,2024-09-28,Graduation Planning,35,In-Person,Senior year planning. Discussed honors thesis requirements.,FALSE
+11,STU10011,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-10-01,Academic Advising,25,In-Person,First-year student orientation advising. Discussed major requirements.,FALSE
+12,STU10012,Computer Science,Engineering,ADV001,Dr. Robert Chen,2024-10-03,Career Counseling,40,Virtual,Discussed internship applications. Reviewed resume and cover letter.,TRUE
+13,STU10013,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2024-10-05,Graduation Planning,30,In-Person,Final semester planning. Discussed capstone project requirements.,FALSE
+14,STU10014,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-10-08,Personal Support,55,In-Person,Discussed work-school balance challenges. Referred to counseling services.,TRUE
+15,STU10015,Nursing,Health Sciences,ADV007,Dr. Patricia Nguyen,2024-10-10,Academic Advising,30,In-Person,Reviewed clinical performance. Student exceeding expectations.,FALSE
+16,STU10016,English,Arts & Sciences,ADV005,Prof. Sarah Mitchell,2024-10-12,Academic Advising,25,Virtual,First-year advising. Discussed creative writing minor option.,FALSE
+17,STU10017,Mechanical Engineering,Engineering,ADV001,Dr. Robert Chen,2024-10-15,Career Counseling,45,In-Person,Industry partnership co-op discussion. Interested in automotive sector.,TRUE
+18,STU10018,Mathematics,Arts & Sciences,ADV006,Dr. James Miller,2024-10-18,Academic Advising,30,In-Person,Exceptional student. Discussed graduate school options and research.,FALSE
+19,STU10019,Chemistry,Arts & Sciences,ADV002,Dr. Lisa Park,2024-10-20,Academic Advising,25,In-Person,Mid-semester check-in. Struggling with organic chemistry. Recommended tutoring.,TRUE
+20,STU10020,Economics,Business,ADV003,Prof. Mark Thompson,2024-10-22,Career Counseling,40,In-Person,Discussed financial analyst career path. Reviewed CFA certification timeline.,FALSE
+21,STU10001,Computer Science,Engineering,ADV001,Dr. Robert Chen,2024-11-05,Registration Help,20,Email,Approved override for advanced algorithms course.,FALSE
+22,STU10002,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-11-08,Career Counseling,60,In-Person,Mock interview for medical school. Provided detailed feedback.,FALSE
+23,STU10021,Computer Science,Engineering,ADV001,Dr. Robert Chen,2025-09-02,Academic Advising,35,In-Person,New student orientation. Discussed CS program structure and career paths.,FALSE
+24,STU10022,Nursing,Health Sciences,ADV007,Dr. Patricia Nguyen,2025-09-04,Academic Advising,30,In-Person,First-year nursing student orientation. Reviewed clinical requirements.,FALSE
+25,STU10023,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2025-09-06,Academic Advising,25,Virtual,Freshman advising. Interested in clinical psychology track.,FALSE
+26,STU10024,Mechanical Engineering,Engineering,ADV001,Dr. Robert Chen,2025-09-08,Academic Advising,30,In-Person,New student meeting. Discussed engineering fundamentals sequence.,FALSE
+27,STU10025,English,Arts & Sciences,ADV005,Prof. Sarah Mitchell,2025-09-10,Personal Support,45,In-Person,Part-time student adjusting to college. Discussed time management.,TRUE
+28,STU10026,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-10-25,Academic Advising,30,In-Person,Discussed adding biochemistry minor. Reviewed course requirements.,FALSE
+29,STU10027,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-10-28,Career Counseling,40,In-Person,Discussed MBA options. Reviewed GMAT preparation timeline.,TRUE
+30,STU10028,Chemistry,Arts & Sciences,ADV002,Dr. Lisa Park,2024-10-30,Academic Advising,25,Virtual,Semester planning. Discussed research project requirements.,FALSE
+31,STU10029,Mathematics,Arts & Sciences,ADV006,Dr. James Miller,2024-11-02,Graduation Planning,35,In-Person,Honors thesis proposal review. Approved topic on number theory.,FALSE
+32,STU10030,Nursing,Health Sciences,ADV007,Dr. Patricia Nguyen,2024-11-05,Graduation Planning,40,In-Person,Final clinical placement review. NCLEX preparation discussion.,TRUE
+33,STU10031,Economics,Business,ADV003,Prof. Mark Thompson,2024-11-08,Academic Advising,30,In-Person,Mid-semester review. Discussed econometrics course struggles.,TRUE
+34,STU10032,Computer Science,Engineering,ADV001,Dr. Robert Chen,2024-11-10,Career Counseling,45,Virtual,Tech industry career paths. Discussed software vs hardware focus.,FALSE
+35,STU10033,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2024-11-12,Academic Advising,25,In-Person,First-semester check-in. Adjusting well to college academics.,FALSE
+36,STU10034,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-04-15,Graduation Planning,45,In-Person,Final graduation clearance meeting. All requirements confirmed complete.,FALSE
+37,STU10035,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-11-15,Academic Advising,30,In-Person,Extended graduation timeline review. Need additional semester for internship credit.,FALSE
+38,STU10036,Mechanical Engineering,Engineering,ADV001,Dr. Robert Chen,2024-03-20,Personal Support,60,In-Person,Student requesting leave of absence. Discussed return process and timeline.,TRUE
+39,STU10037,English,Arts & Sciences,ADV005,Prof. Sarah Mitchell,2024-04-18,Graduation Planning,35,In-Person,Final meeting before graduation. Discussed MFA program applications.,FALSE
+40,STU10038,Chemistry,Arts & Sciences,ADV002,Dr. Lisa Park,2024-11-18,Career Counseling,50,In-Person,PhD program applications. Reviewed research statement drafts.,TRUE
+41,STU10039,Economics,Business,ADV003,Prof. Mark Thompson,2024-04-20,Graduation Planning,30,In-Person,Pre-graduation meeting. Confirmed honors thesis completion.,FALSE
+42,STU10040,Nursing,Health Sciences,ADV007,Dr. Patricia Nguyen,2024-11-20,Academic Advising,35,In-Person,Senior year clinical review. Excellent evaluations across rotations.,FALSE
+43,STU10003,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-11-22,Academic Advising,25,Virtual,Spring registration planning. Added marketing concentration.,FALSE
+44,STU10004,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2024-11-25,Career Counseling,40,In-Person,Graduate school exploration. Discussed PhD vs PsyD paths.,TRUE
+45,STU10042,Psychology,Arts & Sciences,ADV004,Dr. Jennifer Walsh,2024-11-28,Academic Advising,30,In-Person,Junior year planning. Discussed honors program application.,FALSE
+46,STU10043,Biology,Arts & Sciences,ADV002,Dr. Lisa Park,2024-12-01,Academic Advising,25,Phone,Quick check-in on course performance. Student doing well.,FALSE
+47,STU10044,Business Administration,Business,ADV003,Prof. Mark Thompson,2024-12-03,Academic Advising,30,In-Person,First semester review. Interested in entrepreneurship track.,FALSE
+48,STU10045,Mechanical Engineering,Engineering,ADV001,Dr. Robert Chen,2024-12-05,Graduation Planning,40,In-Person,Final degree audit. On track for May 2025 graduation.,FALSE
+49,STU10046,English,Arts & Sciences,ADV005,Prof. Sarah Mitchell,2024-12-08,Career Counseling,35,Virtual,Discussed summer writing workshop opportunities.,FALSE
+50,STU10047,Chemistry,Arts & Sciences,ADV002,Dr. Lisa Park,2024-12-10,Academic Advising,30,In-Person,Research lab placement for Spring 2025. Assigned to Dr. Kims lab.,FALSE

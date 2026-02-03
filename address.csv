@@ -1,0 +1,51 @@
+address_id,student_id,major,department,address_type,street_address,city,state,zip_code,country,is_primary,effective_date
+1,STU10001,Computer Science,Engineering,Home,123 Oak Street,Springfield,IL,62701,USA,TRUE,2024-08-01
+2,STU10001,Computer Science,Engineering,Campus,456 University Ave Rm 312,Springfield,IL,62702,USA,FALSE,2024-08-15
+3,STU10002,Biology,Arts & Sciences,Home,789 Maple Drive,Chicago,IL,60601,USA,TRUE,2024-08-01
+4,STU10003,Business Administration,Business,Home,321 Pine Lane,Peoria,IL,61602,USA,TRUE,2024-08-01
+5,STU10003,Business Administration,Business,Campus,456 University Ave Rm 215,Springfield,IL,62702,USA,FALSE,2024-08-15
+6,STU10004,Psychology,Arts & Sciences,Home,654 Elm Court,Champaign,IL,61820,USA,TRUE,2024-08-01
+7,STU10005,Mechanical Engineering,Engineering,Home,987 Cedar Boulevard,Rockford,IL,61101,USA,TRUE,2024-08-01
+8,STU10005,Mechanical Engineering,Engineering,Mailing,PO Box 5678,Springfield,IL,62702,USA,FALSE,2024-08-15
+9,STU10006,English,Arts & Sciences,Home,147 Birch Way,Decatur,IL,62521,USA,TRUE,2024-08-01
+10,STU10007,Chemistry,Arts & Sciences,Home,258 Willow Street,Bloomington,IL,61701,USA,TRUE,2024-08-01
+11,STU10007,Chemistry,Arts & Sciences,Campus,789 Residence Hall B Rm 405,Springfield,IL,62702,USA,FALSE,2024-08-15
+12,STU10008,Mathematics,Arts & Sciences,Home,369 Ash Avenue,Naperville,IL,60540,USA,TRUE,2024-08-01
+13,STU10009,Nursing,Health Sciences,Home,741 Spruce Circle,Aurora,IL,60502,USA,TRUE,2024-08-01
+14,STU10010,Economics,Business,Home,852 Poplar Drive,Joliet,IL,60431,USA,TRUE,2024-08-01
+15,STU10010,Economics,Business,Campus,456 University Ave Rm 118,Springfield,IL,62702,USA,FALSE,2024-08-15
+16,STU10011,Biology,Arts & Sciences,Home,963 Hickory Lane,Evanston,IL,60201,USA,TRUE,2024-08-01
+17,STU10012,Computer Science,Engineering,Home,159 Walnut Street,Oak Park,IL,60301,USA,TRUE,2024-08-01
+18,STU10013,Psychology,Arts & Sciences,Home,357 Chestnut Road,Skokie,IL,60076,USA,TRUE,2024-08-01
+19,STU10014,Business Administration,Business,Home,468 Magnolia Court,Arlington Heights,IL,60004,USA,TRUE,2024-08-01
+20,STU10015,Nursing,Health Sciences,Home,579 Cypress Way,Schaumburg,IL,60193,USA,TRUE,2024-08-01
+21,STU10015,Nursing,Health Sciences,Campus,789 Residence Hall A Rm 201,Springfield,IL,62702,USA,FALSE,2024-08-15
+22,STU10016,English,Arts & Sciences,Home,681 Redwood Avenue,Palatine,IL,60067,USA,TRUE,2024-08-01
+23,STU10017,Mechanical Engineering,Engineering,Home,792 Sequoia Boulevard,Des Plaines,IL,60016,USA,TRUE,2024-08-01
+24,STU10018,Mathematics,Arts & Sciences,Home,813 Palm Street,Mount Prospect,IL,60056,USA,TRUE,2024-08-01
+25,STU10019,Chemistry,Arts & Sciences,Home,924 Fir Lane,Wheaton,IL,60187,USA,TRUE,2024-08-01
+26,STU10020,Economics,Business,Home,135 Dogwood Drive,Downers Grove,IL,60515,USA,TRUE,2024-08-01
+27,STU10021,Computer Science,Engineering,Home,246 Juniper Court,Lombard,IL,60148,USA,TRUE,2025-08-01
+28,STU10022,Nursing,Health Sciences,Home,357 Hemlock Way,Glen Ellyn,IL,60137,USA,TRUE,2025-08-01
+29,STU10023,Psychology,Arts & Sciences,Home,468 Sycamore Avenue,Carol Stream,IL,60188,USA,TRUE,2025-08-01
+30,STU10024,Mechanical Engineering,Engineering,Home,579 Locust Road,Addison,IL,60101,USA,TRUE,2025-08-01
+31,STU10025,English,Arts & Sciences,Home,681 Beech Boulevard,Elmhurst,IL,60126,USA,TRUE,2025-08-01
+32,STU10026,Biology,Arts & Sciences,Home,792 Acacia Street,Villa Park,IL,60181,USA,TRUE,2024-08-01
+33,STU10027,Business Administration,Business,Home,813 Laurel Lane,Westmont,IL,60559,USA,TRUE,2024-08-01
+34,STU10028,Chemistry,Arts & Sciences,Home,924 Holly Circle,Clarendon Hills,IL,60514,USA,TRUE,2024-08-01
+35,STU10029,Mathematics,Arts & Sciences,Home,135 Ivy Drive,Hinsdale,IL,60521,USA,TRUE,2024-08-01
+36,STU10030,Nursing,Health Sciences,Home,246 Jasmine Court,La Grange,IL,60525,USA,TRUE,2024-08-01
+37,STU10031,Economics,Business,Home,357 Lilac Way,Western Springs,IL,60558,USA,TRUE,2024-08-01
+38,STU10032,Computer Science,Engineering,Home,468 Marigold Avenue,Brookfield,IL,60513,USA,TRUE,2024-08-01
+39,STU10033,Psychology,Arts & Sciences,Home,579 Orchid Road,Riverside,IL,60546,USA,TRUE,2024-08-01
+40,STU10034,Biology,Arts & Sciences,Home,681 Petunia Boulevard,North Riverside,IL,60546,USA,TRUE,2023-08-01
+41,STU10035,Business Administration,Business,Home,792 Rose Street,Forest Park,IL,60130,USA,TRUE,2023-08-01
+42,STU10036,Mechanical Engineering,Engineering,Home,813 Tulip Lane,Maywood,IL,60153,USA,TRUE,2023-08-01
+43,STU10037,English,Arts & Sciences,Home,924 Violet Circle,Bellwood,IL,60104,USA,TRUE,2023-08-01
+44,STU10038,Chemistry,Arts & Sciences,Home,135 Daisy Drive,Melrose Park,IL,60160,USA,TRUE,2023-08-01
+45,STU10039,Economics,Business,Home,246 Sunflower Court,Stone Park,IL,60165,USA,TRUE,2023-08-01
+46,STU10040,Nursing,Health Sciences,Home,357 Carnation Way,Northlake,IL,60164,USA,TRUE,2023-08-01
+47,STU10002,Biology,Arts & Sciences,Mailing,PO Box 1234,Chicago,IL,60601,USA,FALSE,2024-09-01
+48,STU10008,Mathematics,Arts & Sciences,Campus,789 Residence Hall C Rm 102,Springfield,IL,62702,USA,FALSE,2024-08-15
+49,STU10012,Computer Science,Engineering,Campus,456 University Ave Rm 420,Springfield,IL,62702,USA,FALSE,2024-08-15
+50,STU10020,Economics,Business,Mailing,PO Box 9876,Springfield,IL,62702,USA,FALSE,2024-09-15
