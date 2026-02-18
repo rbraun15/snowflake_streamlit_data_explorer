@@ -1,4 +1,4 @@
-# Higher Education Data Explorer
+# Data Explorer
 
 A Streamlit in Snowflake application that enables business users to explore and visualize higher education data across Finance, Student Services, and Advising systems.
 
